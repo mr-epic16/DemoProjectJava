@@ -6,6 +6,8 @@ public class Demo {
 		System.out.println(a);
 		String s = "Muruga";
 		System.out.println(s);
+		float f = 12.32f;
+		System.out.println(f);
 
 	}
 
