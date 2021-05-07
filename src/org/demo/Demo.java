@@ -8,6 +8,8 @@ public class Demo {
 		System.out.println(s);
 		float f = 12.32f;
 		System.out.println(f);
+		char name = 'S';
+		System.out.println(name);
 
 	}
 
